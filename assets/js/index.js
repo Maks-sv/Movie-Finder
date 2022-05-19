@@ -1,2 +1,2 @@
-// import{appInit} from './movies.js';
-// appInit('https://www.omdbapi.com/');
+import{appInit} from './movies.js';
+appInit('https://www.omdbapi.com/');
